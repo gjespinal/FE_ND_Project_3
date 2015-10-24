@@ -1,12 +1,6 @@
-#Arcade Game
+#Arcade Game by gjespinal
 
-Play the game at  or download the source code, open index.html in your favorite (modern) browser and enjoy
+Play the game at  https://github.com/gjespinal/FE_ND_Project_3 and download the source code, open index.html in your favorite (modern) browser and start to play
 
-This game was created for Project 3 of Udacity Front-End Web Developer Nanodegree.  We were given a basic game engine, had to figure out how to get the game running and complete adding functionality.
+This game was created for Project 3 of Udacity Front-End Web Developer Nanodegree.
 
-### Future functions to add
-- Random place treasure on roadway
-- Start with fewer enemies and increase difficulty as the score increases
-- Make playable area bigger with random obstacles
-- Character select screen
-- Death animation
